@@ -44,31 +44,23 @@ A modern, user-friendly calculator web app built with HTML, CSS, and JavaScript.
 
 ## ⌨️ Keyboard Shortcuts
 
-| Key(s)         | Action                        |
-|----------------|-------------------------------|
-| 0-9            | Enter numbers                 |
-| .              | Decimal point                 |
-| +, -, *, /     | Operators (add, subtract, etc)|
-| x or X         | Multiplication (same as *)    |
-| Enter or =     | Calculate result              |
-| Backspace      | Delete last digit             |
-| C, c, or Esc   | Clear current input           |
+| Key(s)       | Action                         |
+| ------------ | ------------------------------ |
+| 0-9          | Enter numbers                  |
+| .            | Decimal point                  |
+| +, -, \*, /  | Operators (add, subtract, etc) |
+| x or X       | Multiplication (same as \*)    |
+| Enter or =   | Calculate result               |
+| Backspace    | Delete last digit              |
+| C, c, or Esc | Clear current input            |
 
 ---
 
 ## 📝 Screenshots
 
-> _Add screenshots here after running the app!_
->
-> ![Calculator Light Mode](screenshots/calculator-light.png)
-> ![Calculator Dark Mode](screenshots/calculator-dark.png)
-> ![Calculator Screenshot Mobile Light Mode](screenshots/calculator-mobile-light.png)
-> ![Calculator Screenshot Mobile Dark Mode](screenshots/calculator-mobile-dark.png)
+> ![Calculator Light Mode](screenshots/calculator-light.png) > ![Calculator Dark Mode](screenshots/calculator-dark.png) > ![Calculator Screenshot Mobile Light Mode](screenshots/calculator-mobile-light.png) > ![Calculator Screenshot Mobile Dark Mode](screenshots/calculator-mobile-dark.png)
 
-> ![Calculator Light Mode History](screenshots/calculator-light-1.png)
-> ![Calculator Dark Mode History](screenshots/calculator-dark-1.png)
-> ![Calculator Screenshot Mobile Light Mode History](screenshots/calculator-mobile-light-1.png)
-> ![Calculator Screenshot Mobile Dark Mode history](screenshots/calculator-mobile-dark-1.png)
+> ![Calculator Light Mode History](screenshots/calculator-light-1.png) > ![Calculator Dark Mode History](screenshots/calculator-dark-1.png) > ![Calculator Screenshot Mobile Light Mode History](screenshots/calculator-mobile-light-1.png) > ![Calculator Screenshot Mobile Dark Mode history](screenshots/calculator-mobile-dark-1.png)
 
 ---
 
@@ -105,4 +97,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 💡 Ideas or Issues?
 
-Feel free to open an issue or submit a pull request! 
+Feel free to open an issue or submit a pull request!
