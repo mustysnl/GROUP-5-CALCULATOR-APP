@@ -91,7 +91,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Authors
 
-- Group 5
+- Muhammad Mustapha
 
 ---
 
